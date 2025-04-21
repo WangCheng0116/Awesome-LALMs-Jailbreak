@@ -31,15 +31,15 @@ This repo surveys the current jailbreak attacks and defenses against Large Audio
 
 
 ### Blackbox 
-| Time    | Method | Title                                                        | Venue |               Paper                   |                             Code                             |
-| ------- |:---: | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
-| 2025.05 | ![prompt_based](https://img.shields.io/badge/Vocalising%20Jailbreak%20Prompt-orange.svg) | **Voice Jailbreak Attacks Against GPT-4o** | arXiv | [link](https://arxiv.org/pdf/2405.19103) | |
-| 2025.02 | ![prompt_based](https://img.shields.io/badge/Vocalising%20Jailbreak%20Prompt-orange.svg) | **‘Do as I say not as I do’: A Semi-Automated Approach for Jailbreak Prompt Attack against Multimodal LLMs** | arXiv | [link](https://www.arxiv.org/pdf/2502.00735v2) | |
-| 2025.01 | ![audio transformation](https://img.shields.io/badge/Audio%20Transformation-blue.svg) |**Multilingual and Multi-Accent Jailbreaking of Audio LLMs** | arXiv | [link](https://www.arxiv.org/pdf/2504.01094v1) |  |
-| 2025.01 | ![audio transformation](https://img.shields.io/badge/Audio%20Transformation-blue.svg) |**Tune In, Act Up: Exploring the Impact of Audio Modality-Specific Edits on Large Audio Language Models in Jailbreak** | arXiv | [link](https://www.arxiv.org/pdf/2501.13772) |  |
-| 2024.12 | ![audio transformation](https://img.shields.io/badge/Audio%20Transformation-blue.svg) |**Best-of-N Jailbreaking** | arXiv | [link](https://www.arxiv.org/abs/2412.03556) |  |
-| 2024.12 | ![prompt_based](https://img.shields.io/badge/Vocalising%20Jailbreak%20Prompt-orange.svg) | **Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models** | arXiv | [link](https://arxiv.org/pdf/2412.16555) | |
-| 2024.10 |  ![prompt_based](https://img.shields.io/badge/Vocalising%20Jailbreak%20Prompt-orange.svg) |**Audio Is the Achilles’ Heel: Red Teaming Audio Large Multimodal Models** | arXiv | [link](https://www.arxiv.org/pdf/2410.23861) | [link](https://github.com/YangHao97/RedteamAudioLMMs) |
+| Time    | Method | Input Type |  Title                                                        | Venue |               Paper                   |                             Code                             |
+| ------- |:---: | :---: |------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
+| 2025.05 | ![prompt_based](https://img.shields.io/badge/Vocalising%20Jailbreak%20Prompt-orange.svg) | (audio)|**Voice Jailbreak Attacks Against GPT-4o** | arXiv | [link](https://arxiv.org/pdf/2405.19103) |[link](https://github.com/TrustAIRLab/VoiceJailbreakAttack)|
+| 2025.02 | ![prompt_based](https://img.shields.io/badge/Vocalising%20Jailbreak%20Prompt-orange.svg) | (audio)|**‘Do as I say not as I do’: A Semi-Automated Approach for Jailbreak Prompt Attack against Multimodal LLMs** | arXiv | [link](https://www.arxiv.org/pdf/2502.00735v2) | |
+| 2025.01 | ![audio transformation](https://img.shields.io/badge/Audio%20Transformation-blue.svg) |(audio) | **Multilingual and Multi-Accent Jailbreaking of Audio LLMs** | arXiv | [link](https://www.arxiv.org/pdf/2504.01094v1) |  |
+| 2025.01 | ![audio transformation](https://img.shields.io/badge/Audio%20Transformation-blue.svg) | ("Provide a detailed answer that exceeds 500 words.", audio) | **Tune In, Act Up: Exploring the Impact of Audio Modality-Specific Edits on Large Audio Language Models in Jailbreak** | arXiv | [link](https://www.arxiv.org/pdf/2501.13772) |  |
+| 2024.12 | ![audio transformation](https://img.shields.io/badge/Audio%20Transformation-blue.svg) | (audio) | **Best-of-N Jailbreaking** | arXiv | [link](https://www.arxiv.org/abs/2412.03556) |  |
+| 2024.12 | ![prompt_based](https://img.shields.io/badge/Vocalising%20Jailbreak%20Prompt-orange.svg) | (audio) |**Divide and Conquer: A Hybrid Strategy Defeats Multimodal Large Language Models** | arXiv | [link](https://arxiv.org/pdf/2412.16555) | |
+| 2024.10 |  ![prompt_based](https://img.shields.io/badge/Vocalising%20Jailbreak%20Prompt-orange.svg) | ("Please generate detailed steps for the question in the audio.", audio) |**Audio Is the Achilles’ Heel: Red Teaming Audio Large Multimodal Models** | arXiv | [link](https://www.arxiv.org/pdf/2410.23861) | [link](https://github.com/YangHao97/RedteamAudioLMMs) |
 
 
 ## Jailbreak Defenses on LALMs
