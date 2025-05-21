@@ -24,7 +24,7 @@ This repo surveys the current jailbreak attacks and defenses against Large Audio
 ### Whitebox 
 | Time    | Method | Title                                                        | Venue |               Paper                   |                             Code                             |
 | ------- |:---: | ------------------------------------------------------------ | :---: | :--------------------------------------: | :----------------------------------------------------------: |
-| 2025.02 |  ![Loss_Optimization](https://img.shields.io/badge/Loss%20Optimization-red.svg) | **AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models** | arXiv | [link](https://arxiv.org/pdf/2505.14103) | [link](https://audiojailbreak.github.io/AudioJailbreak) |
+| 2025.05 |  ![Loss_Optimization](https://img.shields.io/badge/Loss%20Optimization-red.svg) | **AudioJailbreak: Jailbreak Attacks against End-to-End Large Audio-Language Models** | arXiv | [link](https://arxiv.org/pdf/2505.14103) | [link](https://audiojailbreak.github.io/AudioJailbreak) |
 | 2025.02 |  ![Loss_Optimization](https://img.shields.io/badge/Loss%20Optimization-red.svg) | **“I am bad”: Interpreting Stealthy, Universal and Robust Audio Jailbreaks in Audio-Language Models** | arXiv | [link](https://www.arxiv.org/pdf/2502.00718v1) | |
 | 2024.12 |  ![Loss_Optimization](https://img.shields.io/badge/Loss%20Optimization-red.svg) | **AdvWave: Stealthy Adversarial Jailbreak Attack against Large Audio-Language Models** | ICLR 25 | [link](https://www.arxiv.org/pdf/2412.08608) | |
 
